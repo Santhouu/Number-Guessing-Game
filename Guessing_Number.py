@@ -7,6 +7,8 @@ def number_guessing_game():
     print("Your task is to guess it with as few attempts as possible. Good luck!")
 
     # Generate a random number
+    # Generate a random number between 1 and 100 for the game
+
     secret_number = random.randint(1, 100)
     attempts = 0  # To count the number of attempts
 

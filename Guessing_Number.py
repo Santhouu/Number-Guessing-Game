@@ -1,5 +1,5 @@
 import random
-
+#importing the some pre-defined libraries 
 
 def number_guessing_game():
     print("🎉 Welcome to the Number Guessing Game! 🎉")
